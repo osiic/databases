@@ -1,0 +1,56 @@
+osu file format v14
+
+[General]
+AudioFilename: bigbonusland.mp3
+AudioLeadIn: 0
+PreviewTime: 21500
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Corner Jump Training
+TitleUnicode:Corner Jump Training
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:QuadroKiller
+Version:Marathon
+Source:
+Tags:awolnation run cornerjump practice training ctb hyper dash hyperdash quadrokiller
+BeatmapID:1022746
+BeatmapSetID:478917
+
+[Difficulty]
+HPDrainRate:0
+CircleSize:2
+OverallDifficulty:0
+ApproachRate:10
+SliderMultiplier:1.00000000596046
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"RUN DUDUDU.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+0,500,4,2,0,100,1,0
+0,-100,4,2,0,100,0,0
+
+
+[HitObjects]
+256,192,0,5,0,0:0:0:0:

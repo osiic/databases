@@ -1,0 +1,284 @@
+2024-04-20 20:33:35 [verbose]: ----------------------------------------------------------
+2024-04-20 20:33:35 [verbose]: runtime Log for Mine (LogLevel: Verbose)
+2024-04-20 20:33:35 [verbose]: Running osu 2023.1008.1.0 on .NET 6.0.22
+2024-04-20 20:33:35 [verbose]: Environment: Windows (Microsoft Windows NT 10.0.22621.0), 4 cores
+2024-04-20 20:33:35 [verbose]: ----------------------------------------------------------
+2024-04-20 20:33:35 [verbose]: 🖼️ Configuration renderer choice: Automatic
+2024-04-20 20:33:35 [verbose]: 🖼️ Renderer fallback order: [ Direct3D 11, OpenGL (Legacy), OpenGL, Vulkan ]
+2024-04-20 20:33:35 [verbose]: 🖼️ Initialising "Veldrid" renderer with "Direct3D11" surface
+2024-04-20 20:33:35 [verbose]: Updated display mode to desktop resolution: 1920x1080@60, SDL_PIXELFORMAT_RGB888
+2024-04-20 20:33:36 [verbose]: Direct3D 11 Initialized
+2024-04-20 20:33:36 [verbose]: Direct3D 11 Feature Level:           11.1
+2024-04-20 20:33:36 [verbose]: Direct3D 11 Adapter:                 Intel(R) UHD Graphics
+2024-04-20 20:33:36 [verbose]: Direct3D 11 Dedicated Video Memory:  128 MB
+2024-04-20 20:33:36 [verbose]: Direct3D 11 Dedicated System Memory: 0 MB
+2024-04-20 20:33:36 [verbose]: Direct3D 11 Shared System Memory:    3965 MB
+2024-04-20 20:33:36 [verbose]: UseStructuredBuffers: True
+2024-04-20 20:33:36 [verbose]: 🖼️ Renderer initialised!
+2024-04-20 20:33:36 [verbose]: Host execution state changed to Running
+2024-04-20 20:33:36 [verbose]: Execution mode changed to MultiThreaded
+2024-04-20 20:33:36 [verbose]: 🔈 BASS initialised
+2024-04-20 20:33:36 [verbose]: BASS version:           2.4.16.7
+2024-04-20 20:33:36 [verbose]: BASS FX version:        2.4.12.6
+2024-04-20 20:33:36 [verbose]: BASS MIX version:       2.4.11.1
+2024-04-20 20:33:36 [verbose]: Device:                 No sound
+2024-04-20 20:33:36 [verbose]: Driver:
+2024-04-20 20:33:36 [verbose]: Update period:          5 ms
+2024-04-20 20:33:36 [verbose]: Device buffer length:   10 ms
+2024-04-20 20:33:36 [verbose]: Playback buffer length: 100 ms
+2024-04-20 20:33:36 [verbose]: 🔈 BASS initialised
+2024-04-20 20:33:36 [verbose]: BASS version:           2.4.16.7
+2024-04-20 20:33:36 [verbose]: BASS FX version:        2.4.12.6
+2024-04-20 20:33:36 [verbose]: BASS MIX version:       2.4.11.1
+2024-04-20 20:33:36 [verbose]: Device:                 Default
+2024-04-20 20:33:36 [verbose]: Driver:
+2024-04-20 20:33:36 [verbose]: Update period:          5 ms
+2024-04-20 20:33:36 [verbose]: Device buffer length:   10 ms
+2024-04-20 20:33:36 [verbose]: Playback buffer length: 100 ms
+2024-04-20 20:33:36 [verbose]: Beginning realm file store cleanup
+2024-04-20 20:33:36 [verbose]: Finished realm file store cleanup (0 of 786 deleted)
+2024-04-20 20:33:37 [verbose]: Opened realm "D:\Drive Mine's\osu\osu-lazer\client.realm" at version 34
+2024-04-20 20:33:37 [verbose]: 🖍️ Shader Texture2D/Texture loaded from cache!
+2024-04-20 20:33:37 [verbose]: 🖍️ Shader Texture2D/CircularProgress loaded from cache!
+2024-04-20 20:33:37 [verbose]: Updated display mode to fullscreen resolution: 1920x1080@60, SDL_PIXELFORMAT_RGB888
+2024-04-20 20:33:38 [verbose]: Loading FPSCounter...
+2024-04-20 20:33:38 [verbose]: Loaded FPSCounter!
+2024-04-20 20:33:38 [verbose]: Loading VersionManager...
+2024-04-20 20:33:38 [verbose]: Loaded VersionManager!
+2024-04-20 20:33:38 [verbose]: Loading OsuLogo...
+2024-04-20 20:33:38 [verbose]: 🖍️ Shader Texture2D/TriangleBorder loaded from cache!
+2024-04-20 20:33:38 [verbose]: Loaded OsuLogo!
+2024-04-20 20:33:38 [verbose]: Loading Toolbar...
+2024-04-20 20:33:38 [verbose]: 📺 OsuScreenStack#366(depth:1) loading Loader#160
+2024-04-20 20:33:38 [verbose]: 📺 OsuScreenStack#366(depth:1) entered Loader#160
+2024-04-20 20:33:38 [verbose]: 🖍️ Shader Texture2D/Blur loaded from cache!
+2024-04-20 20:33:38 [verbose]: Loaded Toolbar!
+2024-04-20 20:33:38 [verbose]: Loading VolumeOverlay...
+2024-04-20 20:33:38 [verbose]: 🖍️ Shader CursorTrail/Texture loaded from cache!
+2024-04-20 20:33:38 [verbose]: 🖍️ Shader Texture3D/Texture loaded from cache!
+2024-04-20 20:33:38 [verbose]: Loaded VolumeOverlay!
+2024-04-20 20:33:38 [verbose]: Loading OnScreenDisplay...
+2024-04-20 20:33:38 [verbose]: Loaded OnScreenDisplay!
+2024-04-20 20:33:38 [verbose]: Loading NotificationOverlay...
+2024-04-20 20:33:38 [verbose]: Loaded NotificationOverlay!
+2024-04-20 20:33:38 [verbose]: Loading LegacyImportManager...
+2024-04-20 20:33:38 [verbose]: Loaded LegacyImportManager!
+2024-04-20 20:33:38 [verbose]: Loading ScreenshotManager...
+2024-04-20 20:33:38 [verbose]: Loaded ScreenshotManager!
+2024-04-20 20:33:38 [verbose]: Loading SquirrelUpdateManager...
+2024-04-20 20:33:39 [verbose]: Loaded SquirrelUpdateManager!
+2024-04-20 20:33:39 [verbose]: Loading FirstRunSetupOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded FirstRunSetupOverlay!
+2024-04-20 20:33:39 [verbose]: Loading ManageCollectionsDialog...
+2024-04-20 20:33:39 [verbose]: Loaded ManageCollectionsDialog!
+2024-04-20 20:33:39 [verbose]: Loading BeatmapListingOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded BeatmapListingOverlay!
+2024-04-20 20:33:39 [verbose]: Loading DashboardOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded DashboardOverlay!
+2024-04-20 20:33:39 [verbose]: Loading NewsOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded NewsOverlay!
+2024-04-20 20:33:39 [verbose]: Loading RankingsOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded RankingsOverlay!
+2024-04-20 20:33:39 [verbose]: Loading ChannelManager...
+2024-04-20 20:33:39 [verbose]: Loaded ChannelManager!
+2024-04-20 20:33:39 [verbose]: Loading ChatOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded ChatOverlay!
+2024-04-20 20:33:39 [verbose]: Loading MessageNotifier...
+2024-04-20 20:33:39 [verbose]: Loaded MessageNotifier!
+2024-04-20 20:33:39 [verbose]: Loading SettingsOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded SettingsOverlay!
+2024-04-20 20:33:39 [verbose]: Loading ChangelogOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded ChangelogOverlay!
+2024-04-20 20:33:39 [verbose]: Loading UserProfileOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded UserProfileOverlay!
+2024-04-20 20:33:39 [verbose]: Loading BeatmapSetOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded BeatmapSetOverlay!
+2024-04-20 20:33:39 [verbose]: Loading WikiOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded WikiOverlay!
+2024-04-20 20:33:39 [verbose]: Loading SkinEditorOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded SkinEditorOverlay!
+2024-04-20 20:33:39 [verbose]: Loading LoginOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded LoginOverlay!
+2024-04-20 20:33:39 [verbose]: Loading NowPlayingOverlay...
+2024-04-20 20:33:39 [verbose]: 📺 OsuScreenStack#366(depth:1) suspended Loader#160 (waiting on Disclaimer#427)
+2024-04-20 20:33:39 [verbose]: Loaded NowPlayingOverlay!
+2024-04-20 20:33:39 [verbose]: Loading AccountCreationOverlay...
+2024-04-20 20:33:39 [verbose]: 📺 OsuScreenStack#366(depth:2) entered Disclaimer#427
+2024-04-20 20:33:39 [verbose]: 📺 ScreenStack#570(depth:1) scheduling push ScreenWelcome#232
+2024-04-20 20:33:39 [verbose]: Loaded AccountCreationOverlay!
+2024-04-20 20:33:39 [verbose]: Loading DialogOverlay...
+2024-04-20 20:33:39 [verbose]: Loaded DialogOverlay!
+2024-04-20 20:33:39 [verbose]: Loading HighPerformanceSession...
+2024-04-20 20:33:39 [verbose]: Loaded HighPerformanceSession!
+2024-04-20 20:33:39 [verbose]: Loading BackgroundDataStoreProcessor...
+2024-04-20 20:33:39 [verbose]: Beginning background data store processing..
+2024-04-20 20:33:39 [verbose]: Loaded BackgroundDataStoreProcessor!
+2024-04-20 20:33:39 [verbose]: Querying for beatmap sets to reprocess...
+2024-04-20 20:33:39 [verbose]: Found 0 beatmap sets which require reprocessing.
+2024-04-20 20:33:39 [verbose]: Querying for scores to reprocess...
+2024-04-20 20:33:39 [verbose]: Found 0 scores which require reprocessing.
+2024-04-20 20:33:39 [verbose]: Querying for scores that need total score conversion...
+2024-04-20 20:33:39 [verbose]: Found 0 scores which require total score conversion.
+2024-04-20 20:33:39 [verbose]: Finished background data store processing!
+2024-04-20 20:33:46 [verbose]: 📺 OsuScreenStack#366(depth:2) suspended Disclaimer#427 (waiting on IntroTriangles#543)
+2024-04-20 20:33:46 [verbose]: 📺 OsuScreenStack#366(depth:3) entered IntroTriangles#543
+2024-04-20 20:33:46 [verbose]: 📺 BackgroundScreenStack#141(depth:1) loading BackgroundScreenDefault#539
+2024-04-20 20:33:46 [verbose]: Game-wide working beatmap updated to cYsmix - triangles (peppy) [peppy]
+2024-04-20 20:33:46 [verbose]: 🌅 Global background change queued
+2024-04-20 20:33:46 [verbose]: 📺 BackgroundScreenStack#141(depth:1) entered BackgroundScreenDefault#539
+2024-04-20 20:33:46 [verbose]: 🖍️ Shader LogoAnimation/LogoAnimation loaded from cache!
+2024-04-20 20:33:46 [verbose]: decoupled ruleset transferred ("" -> "osu!")
+2024-04-20 20:33:46 [verbose]: 🌅 Global background loading
+2024-04-20 20:33:49 [verbose]: 📺 OsuScreenStack#366(depth:3) suspended IntroTriangles#543 (waiting on MainMenu#370)
+2024-04-20 20:33:49 [verbose]: 📺 OsuScreenStack#366(depth:4) entered MainMenu#370
+2024-04-20 20:33:52 [verbose]: ButtonSystem's state changed from Initial to TopLevel
+2024-04-20 20:33:57 [verbose]: ButtonSystem's state changed from TopLevel to Play
+2024-04-20 20:33:58 [verbose]: 📺 OsuScreenStack#366(depth:4) suspended MainMenu#370 (waiting on PlaySongSelect#121)
+2024-04-20 20:33:58 [verbose]: ButtonSystem's state changed from Play to EnteringMode
+2024-04-20 20:33:58 [verbose]: 📺 OsuScreenStack#366(depth:5) entered PlaySongSelect#121
+2024-04-20 20:33:58 [verbose]: 📺 BackgroundScreenStack#141(depth:2) loading BackgroundScreenBeatmap#578
+2024-04-20 20:33:58 [verbose]: 📺 BackgroundScreenStack#141(depth:2) suspended BackgroundScreenDefault#539 (waiting on BackgroundScreenBeatmap#578)
+2024-04-20 20:33:58 [verbose]: 📺 BackgroundScreenStack#141(depth:2) entered BackgroundScreenBeatmap#578
+2024-04-20 20:33:58 [verbose]: Song select updating selection with beatmap:f541ce59-8de2-40b5-8482-7ab543a60637 ruleset:osu
+2024-04-20 20:33:58 [verbose]: Song select changing beatmap from "cYsmix - triangles (peppy) [peppy]" to "The Flashbulb - Lawn Wake IV (Black) (MBomb) [Cup]"
+2024-04-20 20:33:58 [verbose]: Game-wide working beatmap updated to The Flashbulb - Lawn Wake IV (Black) (MBomb) [Cup]
+2024-04-20 20:33:58 [verbose]: Song select working beatmap updated to The Flashbulb - Lawn Wake IV (Black) (MBomb) [Cup]
+2024-04-20 20:33:58 [verbose]: decoupled ruleset transferred ("osu!" -> "osu!catch")
+2024-04-20 20:33:58 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:33:58 [verbose]: 🌅 Global background change queued
+2024-04-20 20:33:58 [verbose]: Song select updating selection with beatmap:f541ce59-8de2-40b5-8482-7ab543a60637 ruleset:fruits
+2024-04-20 20:34:09 [verbose]: 📺 OsuScreenStack#366(depth:5) suspended PlaySongSelect#121 (waiting on PlayerLoader#518)
+2024-04-20 20:34:09 [verbose]: 📺 OsuScreenStack#366(depth:6) loading PlayerLoader#518
+2024-04-20 20:34:09 [verbose]: 📺 OsuScreenStack#366(depth:6) entered PlayerLoader#518
+2024-04-20 20:34:11 [verbose]: Score submission token retrieval failed (API is not online.)
+2024-04-20 20:34:12 [verbose]: 📺 OsuScreenStack#366(depth:6) suspended PlayerLoader#518 (waiting on SoloPlayer#649)
+2024-04-20 20:34:12 [verbose]: 📺 OsuScreenStack#366(depth:7) entered SoloPlayer#649
+2024-04-20 20:34:12 [verbose]: GameplayClockContainer seeking to 0
+2024-04-20 20:34:19 [verbose]: GameplayClockContainer seeking to 10273
+2024-04-20 20:34:24 [verbose]: 📺 OsuScreenStack#366(depth:6) exit from SoloPlayer#649
+2024-04-20 20:34:24 [verbose]: 📺 OsuScreenStack#366(depth:6) resume to PlayerLoader#518
+2024-04-20 20:34:24 [verbose]: 📺 OsuScreenStack#366(depth:5) exit from PlayerLoader#518
+2024-04-20 20:34:24 [verbose]: 📺 OsuScreenStack#366(depth:5) resume to PlaySongSelect#121
+2024-04-20 20:34:24 [verbose]: Song select working beatmap updated to The Flashbulb - Lawn Wake IV (Black) (MBomb) [Cup]
+2024-04-20 20:34:24 [verbose]: Song select updating selection with beatmap:f541ce59-8de2-40b5-8482-7ab543a60637 ruleset:fruits
+2024-04-20 20:34:29 [verbose]: Song select updating selection with beatmap:db2b7113-e562-4bcb-9b96-4b37660c0d60 ruleset:fruits
+2024-04-20 20:34:29 [verbose]: Song select changing beatmap from "The Flashbulb - Lawn Wake IV (Black) (MBomb) [Cup]" to "DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Beginner]"
+2024-04-20 20:34:29 [verbose]: Game-wide working beatmap updated to DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Beginner]
+2024-04-20 20:34:29 [verbose]: Song select working beatmap updated to DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Beginner]
+2024-04-20 20:34:29 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:35 [verbose]: Song select updating selection with beatmap:86885e36-02a4-4939-9407-4a688fc1c451 ruleset:fruits
+2024-04-20 20:34:35 [verbose]: Song select changing beatmap from "DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Beginner]" to "Various Artists - Corner Jump Training (QuadroKiller) [Marathon]"
+2024-04-20 20:34:35 [verbose]: Game-wide working beatmap updated to Various Artists - Corner Jump Training (QuadroKiller) [Marathon]
+2024-04-20 20:34:35 [verbose]: Song select working beatmap updated to Various Artists - Corner Jump Training (QuadroKiller) [Marathon]
+2024-04-20 20:34:35 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:36 [verbose]: 📺 OsuScreenStack#366(depth:5) suspended PlaySongSelect#121 (waiting on PlayerLoader#366)
+2024-04-20 20:34:36 [verbose]: 📺 OsuScreenStack#366(depth:6) loading PlayerLoader#366
+2024-04-20 20:34:36 [verbose]: 📺 OsuScreenStack#366(depth:6) entered PlayerLoader#366
+2024-04-20 20:34:37 [verbose]: Score submission token retrieval failed (API is not online.)
+2024-04-20 20:34:39 [verbose]: 📺 OsuScreenStack#366(depth:6) suspended PlayerLoader#366 (waiting on SoloPlayer#448)
+2024-04-20 20:34:39 [verbose]: 📺 OsuScreenStack#366(depth:7) entered SoloPlayer#448
+2024-04-20 20:34:39 [verbose]: GameplayClockContainer seeking to -2000
+2024-04-20 20:34:42 [verbose]: 📺 OsuScreenStack#366(depth:7) suspended SoloPlayer#448 (waiting on SoloResultsScreen#208)
+2024-04-20 20:34:42 [verbose]: 📺 OsuScreenStack#366(depth:8) loading SoloResultsScreen#208
+2024-04-20 20:34:42 [verbose]: 📺 OsuScreenStack#366(depth:8) entered SoloResultsScreen#208
+2024-04-20 20:34:46 [verbose]: 📺 OsuScreenStack#366(depth:7) exit from SoloResultsScreen#208
+2024-04-20 20:34:46 [verbose]: 📺 OsuScreenStack#366(depth:7) resume to SoloPlayer#448
+2024-04-20 20:34:46 [verbose]: 📺 OsuScreenStack#366(depth:6) exit from SoloPlayer#448
+2024-04-20 20:34:46 [verbose]: 📺 OsuScreenStack#366(depth:6) resume to PlayerLoader#366
+2024-04-20 20:34:46 [verbose]: 📺 OsuScreenStack#366(depth:5) exit from PlayerLoader#366
+2024-04-20 20:34:46 [verbose]: 📺 OsuScreenStack#366(depth:5) resume to PlaySongSelect#121
+2024-04-20 20:34:46 [verbose]: Song select working beatmap updated to Various Artists - Corner Jump Training (QuadroKiller) [Marathon]
+2024-04-20 20:34:46 [verbose]: Song select updating selection with beatmap:86885e36-02a4-4939-9407-4a688fc1c451 ruleset:fruits
+2024-04-20 20:34:50 [verbose]: Song select updating selection with beatmap:55b2eb50-8445-4617-8861-7d6cdefd5d3d ruleset:fruits
+2024-04-20 20:34:50 [verbose]: Song select changing beatmap from "Various Artists - Corner Jump Training (QuadroKiller) [Marathon]" to "ORANGE RANGE - Ikenai Taiyou (Echo49) [Beginner]"
+2024-04-20 20:34:50 [verbose]: Game-wide working beatmap updated to ORANGE RANGE - Ikenai Taiyou (Echo49) [Beginner]
+2024-04-20 20:34:50 [verbose]: Song select working beatmap updated to ORANGE RANGE - Ikenai Taiyou (Echo49) [Beginner]
+2024-04-20 20:34:50 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:51 [verbose]: Song select updating selection with beatmap:3f93d5a2-6b65-4f65-841a-153576037a57 ruleset:fruits
+2024-04-20 20:34:51 [verbose]: Song select changing beatmap from "ORANGE RANGE - Ikenai Taiyou (Echo49) [Beginner]" to "Eels - I Need Some Sleep (Pjecoo) [Beginner]"
+2024-04-20 20:34:51 [verbose]: Game-wide working beatmap updated to Eels - I Need Some Sleep (Pjecoo) [Beginner]
+2024-04-20 20:34:51 [verbose]: Song select working beatmap updated to Eels - I Need Some Sleep (Pjecoo) [Beginner]
+2024-04-20 20:34:51 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:52 [verbose]: Song select updating selection with beatmap:44d844f2-6f00-4d73-a542-b8af59f80b6c ruleset:fruits
+2024-04-20 20:34:52 [verbose]: Song select changing beatmap from "Eels - I Need Some Sleep (Pjecoo) [Beginner]" to "DJ OKAWARI - Represent feat.Chieko Kinbara (Backstep) [Beginner]"
+2024-04-20 20:34:52 [verbose]: Game-wide working beatmap updated to DJ OKAWARI - Represent feat.Chieko Kinbara (Backstep) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select working beatmap updated to DJ OKAWARI - Represent feat.Chieko Kinbara (Backstep) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:52 [verbose]: Song select updating selection with beatmap:2b007cfb-d4b3-4b5a-99e6-b20ad668af4d ruleset:fruits
+2024-04-20 20:34:52 [verbose]: Song select changing beatmap from "DJ OKAWARI - Represent feat.Chieko Kinbara (Backstep) [Beginner]" to "Fisher P - Patvans (Cancel) [Beginner]"
+2024-04-20 20:34:52 [verbose]: Game-wide working beatmap updated to Fisher P - Patvans (Cancel) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select working beatmap updated to Fisher P - Patvans (Cancel) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:52 [verbose]: Song select updating selection with beatmap:30710c11-0309-4750-a44d-2b75a577a7dc ruleset:fruits
+2024-04-20 20:34:52 [verbose]: Song select changing beatmap from "Fisher P - Patvans (Cancel) [Beginner]" to "Fiona Fung - Proud of You (pandorawindy) [Beginner]"
+2024-04-20 20:34:52 [verbose]: Game-wide working beatmap updated to Fiona Fung - Proud of You (pandorawindy) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select working beatmap updated to Fiona Fung - Proud of You (pandorawindy) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:52 [verbose]: Song select updating selection with beatmap:c175ccfb-7e7b-48a5-9a1d-a22e5aaad9c9 ruleset:fruits
+2024-04-20 20:34:52 [verbose]: Song select changing beatmap from "Fiona Fung - Proud of You (pandorawindy) [Beginner]" to "Yoshio Nomura - Lunchtime Blues (Gens) [Beginner]"
+2024-04-20 20:34:52 [verbose]: Game-wide working beatmap updated to Yoshio Nomura - Lunchtime Blues (Gens) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select working beatmap updated to Yoshio Nomura - Lunchtime Blues (Gens) [Beginner]
+2024-04-20 20:34:52 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:53 [verbose]: Song select updating selection with beatmap:6f4bd201-bc14-4290-ab73-5b650287c396 ruleset:fruits
+2024-04-20 20:34:53 [verbose]: Song select changing beatmap from "Yoshio Nomura - Lunchtime Blues (Gens) [Beginner]" to "Breeze - La Plage (Louis Cyphre) [Beginner]"
+2024-04-20 20:34:53 [verbose]: Game-wide working beatmap updated to Breeze - La Plage (Louis Cyphre) [Beginner]
+2024-04-20 20:34:53 [verbose]: Song select working beatmap updated to Breeze - La Plage (Louis Cyphre) [Beginner]
+2024-04-20 20:34:53 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:56 [verbose]: Song select updating selection with beatmap:d13007c0-35f9-4efc-923e-f403513fd588 ruleset:fruits
+2024-04-20 20:34:56 [verbose]: Song select changing beatmap from "Breeze - La Plage (Louis Cyphre) [Beginner]" to "Cherry - Yesterday (Natteke desu) [Hyper]"
+2024-04-20 20:34:56 [verbose]: Game-wide working beatmap updated to Cherry - Yesterday (Natteke desu) [Hyper]
+2024-04-20 20:34:56 [verbose]: Song select working beatmap updated to Cherry - Yesterday (Natteke desu) [Hyper]
+2024-04-20 20:34:56 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:57 [verbose]: Song select updating selection with beatmap:283c9bd5-3d85-4605-b142-4bd2da246f4a ruleset:fruits
+2024-04-20 20:34:57 [verbose]: Song select changing beatmap from "Cherry - Yesterday (Natteke desu) [Hyper]" to "Lexurus - Gravity (Milan-) [Pho's Normal]"
+2024-04-20 20:34:57 [verbose]: Game-wide working beatmap updated to Lexurus - Gravity (Milan-) [Pho's Normal]
+2024-04-20 20:34:57 [verbose]: Song select working beatmap updated to Lexurus - Gravity (Milan-) [Pho's Normal]
+2024-04-20 20:34:57 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:34:58 [verbose]: Song select updating selection with beatmap:07d59561-d85d-4300-bfe6-c7e811e63aa2 ruleset:fruits
+2024-04-20 20:34:58 [verbose]: Song select changing beatmap from "Lexurus - Gravity (Milan-) [Pho's Normal]" to "DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Hyper]"
+2024-04-20 20:34:58 [verbose]: Game-wide working beatmap updated to DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Hyper]
+2024-04-20 20:34:58 [verbose]: Song select working beatmap updated to DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Hyper]
+2024-04-20 20:34:58 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:35:04 [verbose]: Focus contention triggered by ManageCollectionsDialog.
+2024-04-20 20:35:07 [verbose]: Focus contention triggered by ManageCollectionsDialog.
+2024-04-20 20:35:11 [verbose]: Song select updating selection with beatmap:3b4843d3-1340-4db7-8bd9-5db133fae995 ruleset:fruits
+2024-04-20 20:35:11 [verbose]: Song select changing beatmap from "DJ YOSHITAKA feat. Kanako Hoshino - Endless Summer Story (fanzhen0019) [Hyper]" to "Hige Driver - Miracle Sugite Yabai (feat. shully) (Milan-) [Hard]"
+2024-04-20 20:35:11 [verbose]: Game-wide working beatmap updated to Hige Driver - Miracle Sugite Yabai (feat. shully) (Milan-) [Hard]
+2024-04-20 20:35:11 [verbose]: Song select working beatmap updated to Hige Driver - Miracle Sugite Yabai (feat. shully) (Milan-) [Hard]
+2024-04-20 20:35:11 [verbose]: Song select decided to ensurePlayingSelected
+2024-04-20 20:35:12 [verbose]: 📺 OsuScreenStack#366(depth:5) suspended PlaySongSelect#121 (waiting on PlayerLoader#888)
+2024-04-20 20:35:12 [verbose]: 📺 OsuScreenStack#366(depth:6) loading PlayerLoader#888
+2024-04-20 20:35:12 [verbose]: 📺 OsuScreenStack#366(depth:6) entered PlayerLoader#888
+2024-04-20 20:35:13 [verbose]: Score submission token retrieval failed (API is not online.)
+2024-04-20 20:35:14 [verbose]: 📺 OsuScreenStack#366(depth:6) suspended PlayerLoader#888 (waiting on SoloPlayer#341)
+2024-04-20 20:35:14 [verbose]: 📺 OsuScreenStack#366(depth:7) entered SoloPlayer#341
+2024-04-20 20:35:14 [verbose]: GameplayClockContainer seeking to 0
+2024-04-20 20:35:34 [verbose]: 📺 OsuScreenStack#366(depth:6) exit from SoloPlayer#341
+2024-04-20 20:35:34 [verbose]: 📺 OsuScreenStack#366(depth:6) resume to PlayerLoader#888
+2024-04-20 20:35:34 [verbose]: 📺 OsuScreenStack#366(depth:5) exit from PlayerLoader#888
+2024-04-20 20:35:34 [verbose]: 📺 OsuScreenStack#366(depth:5) resume to PlaySongSelect#121
+2024-04-20 20:35:34 [verbose]: Song select working beatmap updated to Hige Driver - Miracle Sugite Yabai (feat. shully) (Milan-) [Hard]
+2024-04-20 20:35:34 [verbose]: Song select updating selection with beatmap:3b4843d3-1340-4db7-8bd9-5db133fae995 ruleset:fruits
+2024-04-20 20:35:37 [verbose]: 📺 BackgroundScreenStack#141(depth:1) exit from BackgroundScreenBeatmap#578
+2024-04-20 20:35:37 [verbose]: 📺 BackgroundScreenStack#141(depth:1) resume to BackgroundScreenDefault#539
+2024-04-20 20:35:37 [verbose]: 📺 OsuScreenStack#366(depth:4) exit from PlaySongSelect#121
+2024-04-20 20:35:37 [verbose]: 📺 OsuScreenStack#366(depth:4) resume to MainMenu#370
+2024-04-20 20:35:37 [verbose]: 🌅 Global background change queued
+2024-04-20 20:35:37 [verbose]: 🌅 Global background change queued
+2024-04-20 20:35:37 [verbose]: decoupled ruleset transferred ("" -> "osu!catch")
+2024-04-20 20:35:37 [verbose]: ButtonSystem's state changed from EnteringMode to TopLevel
+2024-04-20 20:35:37 [verbose]: 🌅 Global background loading
+2024-04-20 20:35:39 [verbose]: ButtonSystem's state changed from TopLevel to Initial
+2024-04-20 20:35:41 [verbose]: ButtonSystem's state changed from Initial to Exit
+2024-04-20 20:35:41 [verbose]: 📺 OsuScreenStack#366(depth:3) exit from MainMenu#370
+2024-04-20 20:35:41 [verbose]: 📺 OsuScreenStack#366(depth:3) resume to IntroTriangles#543
+2024-04-20 20:35:44 [verbose]: 📺 BackgroundScreenStack#141(depth:0) exit from BackgroundScreenDefault#539
+2024-04-20 20:35:44 [verbose]: 📺 BackgroundScreenStack#141(depth:0) resume to [empty]
+2024-04-20 20:35:44 [verbose]: 📺 OsuScreenStack#366(depth:2) exit from IntroTriangles#543
+2024-04-20 20:35:44 [verbose]: 📺 OsuScreenStack#366(depth:2) resume to Disclaimer#427
+2024-04-20 20:35:44 [verbose]: 📺 OsuScreenStack#366(depth:1) exit from Disclaimer#427
+2024-04-20 20:35:44 [verbose]: 📺 OsuScreenStack#366(depth:1) resume to Loader#160
+2024-04-20 20:35:44 [verbose]: 📺 OsuScreenStack#366(depth:0) exit from Loader#160
+2024-04-20 20:35:44 [verbose]: 📺 OsuScreenStack#366(depth:0) resume to [empty]
+2024-04-20 20:35:44 [verbose]: Host execution state changed to Stopping
+2024-04-20 20:35:44 [verbose]: Host execution state changed to Stopped

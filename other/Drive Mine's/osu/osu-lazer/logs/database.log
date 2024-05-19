@@ -1,0 +1,7 @@
+2024-04-20 20:34:42 [verbose]: ----------------------------------------------------------
+2024-04-20 20:34:42 [verbose]: database Log for Mine (LogLevel: Verbose)
+2024-04-20 20:34:42 [verbose]: Running osu 2023.1008.1.0 on .NET 6.0.22
+2024-04-20 20:34:42 [verbose]: Environment: Windows (Microsoft Windows NT 10.0.22621.0), 4 cores
+2024-04-20 20:34:42 [verbose]: ----------------------------------------------------------
+2024-04-20 20:34:42 [verbose]: [?????] Beginning import from replay.osr...
+2024-04-20 20:34:42 [verbose]: [317c7] Import successfully completed!

@@ -1,0 +1,6 @@
+2024-04-20 20:33:39 [verbose]: ----------------------------------------------------------
+2024-04-20 20:33:39 [verbose]: updater Log for Mine (LogLevel: Verbose)
+2024-04-20 20:33:39 [verbose]: Running osu 2023.1008.1.0 on .NET 6.0.22
+2024-04-20 20:33:39 [verbose]: Environment: Windows (Microsoft Windows NT 10.0.22621.0), 4 cores
+2024-04-20 20:33:39 [verbose]: ----------------------------------------------------------
+2024-04-20 20:33:39 [verbose]: UpdateManager: Using existing staging user ID: 46ddecb7-8fb9-5630-8687-a5083d0c6d0d
